@@ -1,0 +1,3 @@
+C:/Users/Xtrabatya/Desktop/Innopolis ITP/CProjects/DSAAssignment/cmake-build-debug/CMakeFiles/DSAAssignment.dir
+C:/Users/Xtrabatya/Desktop/Innopolis ITP/CProjects/DSAAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Xtrabatya/Desktop/Innopolis ITP/CProjects/DSAAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
